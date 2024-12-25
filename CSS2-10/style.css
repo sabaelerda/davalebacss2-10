@@ -1,0 +1,656 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#mainContainer {
+    padding: 96px;
+    max-width: 1604px;
+    width: 100%;
+    background: #E2F7FF;
+    margin: 0 auto;
+    margin-top: 64px;
+}
+
+#olivieRyhe {
+    color: #6941C6;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    margin-top: 20px;
+    text-align: left;
+}
+
+#box {
+    width: 1216px;
+    margin: 0 auto;
+}
+
+#uxReview {
+    color: #181D27;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 38px;
+    text-align: left;
+    margin-top: 8px;
+}
+
+#presentations {
+    font-size: 16px;
+    color: #535862;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-top: 8px;
+}
+
+#buttonDesign {
+    padding: 8px 12px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    border-radius: 9999px;
+    width: 71px;
+    margin-top: 24px;
+    display: inline-block;
+
+}
+
+#design {
+    border: none;
+    color: #6941C6;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    background: #F9F5FF;
+
+
+}
+
+#buttonResearch {
+    display: inline-block;
+    margin-left: 8px;
+    padding: 8px 12px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    border-radius: 9999px;
+}
+
+#researchhhh {
+    color: #3538CD;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    background: #EEF4FF;
+    border: none;
+
+
+}
+
+#buttonPresentation {
+    display: inline-block;
+    margin-left: 8px;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    padding: 8px 12px;
+    background: #FDF2FA;
+}
+
+#presentation {
+    color: #C11574;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    background: #FDF2FA;
+    border: none;
+
+}
+
+#mainBox {
+    max-width: 1216px;
+    margin: 0 auto;
+    margin-top: 64px;
+}
+
+#education {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#secondImg {
+    display: inline-block;
+
+}
+
+#phoenix {
+    color: #6941C6;
+    margin-top: 20px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+
+}
+
+
+#migrating {
+    color: #181D27;
+    margin-top: 8px;
+    display: inline-block;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    vertical-align: middle;
+    width: 344px;
+}
+
+#arrow {
+    vertical-align: middle;
+    margin-top: 8px;
+}
+
+#softwareProjects {
+    width: 384px;
+    margin-top: 8px;
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#buttonContainer {
+    display: inline-block;
+    margin-top: 24px;
+}
+
+#productBox {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+
+}
+
+#product {
+    color: #026AA2;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    border: none;
+    background: #F0F9FF;
+}
+
+#buttonTools {
+    display: inline-block;
+    margin-left: 8px;
+    border: 1px solid #FCCEEE;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    background: #FDF2FA;
+}
+
+#tools {
+    color: #C11574;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    border: none;
+    background: #FDF2FA;
+}
+
+#buttonSaaS {
+    display: inline-block;
+    margin-left: 8px;
+    border: 1px solid #FCCEEE;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    background: #FDF2FA;
+}
+
+#saas {
+    color: #C11574;
+    border: none;
+    font-weight: 500;
+    font-size: 14px;
+    background: #FDF2FA;
+}
+
+#apiStack {
+    margin-left: 32px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#steiner {
+    color: #6941C6;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    margin-top: 20px;
+}
+
+#yourAPI {
+    color: #181D27;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    margin-top: 8px;
+    display: inline-block;
+    vertical-align: top;
+    width: 344px;
+}
+
+#arrowOne {
+    vertical-align: top;
+    margin-top: 8px;
+
+}
+
+#riseOfRestful {
+    width: 384px;
+    margin-top: 8px;
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#buttonContainerTwo {
+    display: inline-block;
+    margin-top: 24px;
+}
+
+#softwareBox {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #ABEFC6;
+    background: #ECFDF3;
+    display: inline-block;
+}
+
+#software {
+    color: #067647;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    background: #ECFDF3;
+    border: none;
+
+}
+
+#buttonToolls {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    display: inline-block;
+    margin-left: 8px;
+}
+
+#toolsone {
+    color: #C11574;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    border: none;
+    background: #FDF2FA;
+
+}
+
+#leadership {
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 24px;
+}
+
+#alecWhite {
+    color: #6941C6;
+    margin-top: 20px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+#billWalsh {
+    color: #181D27;
+    margin-top: 8px;
+    display: inline-block;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    vertical-align: top;
+    width: 344px;
+}
+
+#arroww {
+    vertical-align: top;
+    margin-top: 8px;
+}
+
+#secretsOf {
+    width: 384px;
+    margin-top: 8px;
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#buttonBoxTwo {
+    display: inline-block;
+    margin-top: 24px;
+}
+
+#leadershipBox {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    display: inline-block;
+}
+
+#leadershipp {
+    color: #6941C6;
+    border: none;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    background: #F9F5FF
+}
+
+#managmentBox {
+    display: inline-block;
+    margin-left: 8px;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #D5D9EB;
+    background: #F8F9FC;
+}
+
+#management {
+    color: #363F72;
+    border: none;
+    background: #F8F9FC;
+
+}
+
+#mentalModels {
+    vertical-align: top;
+    display: inline-block;
+    max-width: 384px;
+    width: 100%;
+    margin-top: 48px
+}
+
+#demiWilkinson {
+    color: #6941C6;
+    margin-top: 20px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+#mentalModelsss {
+    color: #181D27;
+    display: inline-block;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    vertical-align: middle;
+    max-width: 344px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+#arrowwthree {
+    vertical-align: middle;
+    margin-top: 8px;
+}
+
+#simpleExpressions {
+    max-width: 384px;
+    width: 100%;
+    margin-top: 8px;
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#productOne {
+    width: 77px;
+    height: 36px;
+    border-radius: 9999px;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    color: #026AA2;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+#productBoxx {
+    display: inline-block;
+}
+
+#buttonBoxThree {
+    margin-top: 24px;
+    vertical-align: middle;
+}
+
+#buttonDesignOne {
+    display: inline-block;
+    margin-left: 8px;
+
+}
+
+#researchButton {
+    padding: 8px 12px;
+    border: 1px solid #C7D7FE;
+    border-radius: 9999px;
+    color: #3538CD;
+    background: #EEF4FF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+#frame {
+    padding: 8px 12px;
+    border: 1px solid #F9DBAF;
+    color: #B93815;
+    border-radius: 9999px;
+    background: #FEF6EE;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+
+
+}
+
+#frameWorks {
+    display: inline-block;
+    margin-left: 8px;
+}
+
+#wireFramingBox {
+    vertical-align: top;
+    display: inline-block;
+    max-width: 384px;
+    width: 100%;
+    margin-left: 32px;
+    margin-top: 48px;
+}
+
+#candice {
+    color: #6941C6;
+    margin-top: 20px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+#wireFraming {
+    color: #181D27;
+    margin-top: 8px;
+    display: inline-block;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    vertical-align: middle;
+    max-width: 344px;
+    width: 100%;
+}
+
+#arrowwPhoto {
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+#wireFraminIntroduction {
+    max-width: 384px;
+    width: 100%;
+    margin-top: 8px;
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#buttonBoxFour {
+    margin-top: 24px;
+    vertical-align: middle;
+}
+
+#designBox {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#designOne {
+    padding: 8px 16px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    color: #6941C6;
+
+}
+
+#researchButtonBox {
+    margin-left: 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#research {
+    padding: 8px 16px;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    color: #3538CD;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+#collaborationBox {
+    vertical-align: top;
+    display: inline-block;
+    max-width: 384px;
+    width: 100%;
+    margin-left: 24px;
+    margin-top: 48px;
+}
+
+#nataliCraig {
+    color: #6941C6;
+    margin-top: 20px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+#betterDesingers {
+    color: #181D27;
+    margin-top: 8px;
+    display: inline-block;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    vertical-align: middle;
+    max-width: 344px;
+    width: 100%;
+}
+
+#pointer {
+    vertical-align: middle;
+    margin-bottom: 17px;
+}
+
+#collaborationBenefits {
+    max-width: 384px;
+    width: 100%;
+    margin-top: 8px;
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#buttonBoxFive {
+    margin-top: 24px;
+    vertical-align: middle;
+}
+
+#designer {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#designerButton {
+    padding: 8px 16px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    border-radius: 9999px;
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+#researcher {
+    margin-left: 8px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#researcherBox {
+    padding: 8px 16px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    border-radius: 9999px;
+    color: #3538CD;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal
+}
